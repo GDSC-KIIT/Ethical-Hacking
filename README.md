@@ -8,7 +8,7 @@
 - I wish you don't use these tools for illegal purposes, but if you do, I sure hope you know what you're doing.
 - Practice using challenges, not real targets!
 
-#Contributors
-Saket Pandey[https://github.com/dexter-11]
-Soumya Ghosh Dastidar[https://github.com/gdsoumya]
-Neeraj Singh[https://github.com/karma9874]
+# Contributors
+[Saket Pandey](https://github.com/dexter-11)
+[Soumya Ghosh Dastidar](https://github.com/gdsoumya)
+[Neeraj Singh](https://github.com/karma9874)
