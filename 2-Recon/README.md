@@ -1,4 +1,4 @@
-# Day 2 [Reconnaissance / Footprinting]
+# Reconnaissance / Footprinting
 
 ### What is Footprinting ?
 Footprinting is a vital first step in the process of penetration testing because it allows for
