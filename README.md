@@ -9,6 +9,6 @@
 - Practice using challenges, not real targets!
 
 # Contributors
-[Saket Pandey](https://github.com/dexter-11)
-[Soumya Ghosh Dastidar](https://github.com/gdsoumya)
-[Neeraj Singh](https://github.com/karma9874)
+1. [Saket Pandey](https://github.com/dexter-11)
+2. [Soumya Ghosh Dastidar](https://github.com/gdsoumya)
+3. [Neeraj Singh](https://github.com/karma9874)
