@@ -75,7 +75,7 @@ hping3 -S <zombie>
 
 ### Further Reading
 
-* **_[NMAP by Konnexions](https://github.com/dexter-11/Konnexions-2020/blob/master/Day%203-4/Nmap.md)_**
+* **_[NMAP](https://github.com/DSC-KIIT/Ethical-Hacking/blob/main/3-Scanning%20%26%20Enumeration/Nmap.md)_**
 
 ## ENUMERATION
 
